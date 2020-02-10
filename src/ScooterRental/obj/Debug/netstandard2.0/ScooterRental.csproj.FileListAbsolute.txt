@@ -1,0 +1,8 @@
+C:\projects\ScooterRental\src\ScooterRental\bin\Debug\netstandard2.0\ScooterRental.deps.json
+C:\projects\ScooterRental\src\ScooterRental\bin\Debug\netstandard2.0\ScooterRental.dll
+C:\projects\ScooterRental\src\ScooterRental\bin\Debug\netstandard2.0\ScooterRental.pdb
+C:\projects\ScooterRental\src\ScooterRental\obj\Debug\netstandard2.0\ScooterRental.csprojAssemblyReference.cache
+C:\projects\ScooterRental\src\ScooterRental\obj\Debug\netstandard2.0\ScooterRental.AssemblyInfoInputs.cache
+C:\projects\ScooterRental\src\ScooterRental\obj\Debug\netstandard2.0\ScooterRental.AssemblyInfo.cs
+C:\projects\ScooterRental\src\ScooterRental\obj\Debug\netstandard2.0\ScooterRental.dll
+C:\projects\ScooterRental\src\ScooterRental\obj\Debug\netstandard2.0\ScooterRental.pdb
